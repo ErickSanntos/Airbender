@@ -1,0 +1,26 @@
+.mainpic{
+  background-image: url"C:\Users\santo\Desktop\Airbender\smite_x_aang_avatar_4k_hd-1280x720.jpg";
+  width: auto;
+  height:inherit ;
+  padding: 2px; ;
+  border: 2px solid black;
+
+}
+img{
+  object-fit: cover;
+  max-width: 100%;
+  max-height: 100%;
+}
+#pic01{
+  border: 2px solid blue;
+  height: 70px;
+  width: 100px;
+}
+#pic02{
+  height: 100px;
+  width: 100px;
+  }
+  #pic03{
+    height: 100px;
+    width: 100px;
+    }
